@@ -5,7 +5,7 @@ const AppWorks = () => {
   return (
     
       
-      <div id="works" className="block bgGray">
+      <div id="team" className="block bgGray">
         <div className="container-fluid">
           <div className="titleHolder">
             <h2>Leadership</h2>

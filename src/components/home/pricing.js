@@ -8,7 +8,7 @@ import image5 from '../../assets/images/Food and Processing.jpg';
 import image6 from '../../assets/images/Beauty & Wellness.jpg';
 import image7 from '../../assets/images/FMCG.jpg';
 import image8 from '../../assets/images/Audio and Video.jpg';
-import image9 from '../../assets/images/Healthcare & Pharmaceuticals.png';
+import image9 from '../../assets/images/Healthcare & Pharmaceuticals.jpg';
 import image10 from '../../assets/images/Education.jpg';
 import image11 from '../../assets/images/Software.jpg';
 import image12 from '../../assets/images/Telecommunication.jpg';

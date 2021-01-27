@@ -14,7 +14,7 @@ const items = [
 
 function AppHero() {
   return (
-    <div id="hero" className="heroBlock">
+    <div id="home" className="heroBlock">
       <Carousel autoplay>
         {items.map(item => {
           return (

@@ -24,10 +24,10 @@ function AppHeader() {
         </div>
         <div className="mobileHidden">
           <Anchor targetOffset="65">
-            <Link href="#hero" title="Home" />
-            <Link href="#feature" title="Our Services" />
-            <Link href="#pricing" title="Industries We Serve" />
-            <Link href="#works" title="Team" />                      
+            <Link href="#home" title="Home" />
+            <Link href="#services" title="Our Services" />
+            <Link href="#industries" title="Industries We Serve" />
+            <Link href="#team" title="Team" />                      
             <Link href="#contact" title="Contact" />
           </Anchor>
         </div>
@@ -42,10 +42,10 @@ function AppHeader() {
             visible={visible}
           >
             <Anchor targetOffset="65">
-              <Link href="#hero" title="Home" />
-              <Link href="#feature" title="Our Services" />
-              <Link href="#pricing" title="Industries We Serve" />
-              <Link href="#works" title="Team" />
+              <Link href="#home" title="Home" />
+              <Link href="#services" title="Our Services" />
+              <Link href="#industries" title="Industries We Serve" />
+              <Link href="#team" title="Team" />
               <Link href="#contact" title="Contact" />
             </Anchor>
           </Drawer>

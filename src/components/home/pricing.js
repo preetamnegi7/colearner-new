@@ -20,7 +20,7 @@ const { Meta } = Card;
 
 function AppPricing() {
   return (
-    <div id="pricing" className="block pricingBlock bgGray">
+    <div id="industries" className="block pricingBlock bgGray">
       <div className="container-fluid">
         <div className="titleHolder">
           <h2>Industries We Serve</h2>
